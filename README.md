@@ -59,4 +59,3 @@ streamlit run chat.py
 
 1. Choice a model via [Models - OpenAI API](https://platform.openai.com/docs/models/overview), for example: `gpt-3.5-turbo`
 1. Define environment variable `OPENAI_MODEL`# MedQA
-# MedQA
